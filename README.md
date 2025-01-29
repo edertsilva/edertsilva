@@ -1,4 +1,4 @@
-## Olá, sou Éder Silva!
+## Olá, sou Éder Tavares!
 
 <div align="center">
   <a href="https://github.com/edertsilva">
